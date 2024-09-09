@@ -1,0 +1,6 @@
+/djangoapp/static/
+/djangoapp/media/
+/djangoapp/project/lolcal_settings.py
+guicorn-error-log 
+__localcode
+/data/
